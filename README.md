@@ -8,4 +8,9 @@
 ## Day - 2
 
 - [Notebook](https://github.com/rajeshberwal/Python-Workshop/blob/master/Python%20Workshop%20Day%20-%202.ipynb)
-- [Video Part - 1](https://youtu.be/1iVdmMgO0ZQ)
+- [Video](https://youtu.be/1iVdmMgO0ZQ)
+
+## Day - 3
+
+- [Notebook](https://github.com/rajeshberwal/Python-Workshop/blob/master/Python%20Workshop%20Day%20-%203.ipynb)
+- [Video Part - 1](https://youtu.be/f1RYQY_s-p0)
