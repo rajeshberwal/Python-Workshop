@@ -21,4 +21,4 @@
 ## Day - 4
 
 - [Notebook](https://github.com/rajeshberwal/Python-Workshop/blob/master/Python%20Workshop%20Day%204.ipynb)
-- [Video Part - 1](https://youtu.be/P60Jvk5R5UA)
+- [Video Part](https://youtu.be/P60Jvk5R5UA)
